@@ -1,7 +1,7 @@
 # Video Thumbnail Extractor
 
 A utility for converting any video file into a series of random high-resolution thumbnails.
-
+![Overview](./unnamed2.png)
 ## Installation
 
 Install the required dependencies:
